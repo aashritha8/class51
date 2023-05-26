@@ -1,0 +1,39 @@
+
+
+
+.header {
+    color:rgb(100, 41, 129);
+    background-color: #5c90d6;
+    display:flex;
+    justify-content: space-between;
+    box-shadow: 5px 5px 10px white;
+}
+
+.grid {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+h2,p {
+    text-align: center;
+    color: rgb(100, 41, 129);
+}
+
+body {
+    background-color: rgb(142, 248, 162);
+}
+
+.icon {
+    border-radius: 50%;
+}
+
+.link{
+    margin: 5px;
+    padding: 5px;
+}
